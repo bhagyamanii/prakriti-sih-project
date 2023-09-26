@@ -1,0 +1,60 @@
+<div className="types">
+        <ol>
+          <li>
+            <strong>Vata Dosha:</strong> Vata is associated with the elements of
+            air and space. Individuals with a predominant Vata constitution tend
+            to be creative, enthusiastic, and energetic when in balance.
+            However, they are also prone to anxiety, restlessness, and digestive
+            issues when out of balance. Physically, they often have slender
+            frames, dry skin, and may experience fluctuations in body weight.
+          </li>
+          <li>
+            <strong>Pitta Dosha:</strong> Pitta is related to the elements of
+            fire and water. Those with a dominant Pitta constitution are often
+            sharp-minded, ambitious, and have strong digestion. When imbalanced,
+            they may become irritable, prone to anger, and suffer from
+            conditions like heartburn and inflammation. They typically have a
+            medium build, warm skin, and may experience skin-related issues.
+          </li>
+          <li>
+            <strong>Kapha Dosha:</strong> Kapha is associated with the elements
+            of earth and water. Individuals with a predominant Kapha
+            constitution tend to be calm, nurturing, and grounded. Imbalances
+            can lead to sluggishness, weight gain, and respiratory problems.
+            Kapha types usually have a sturdy build, smooth skin, and are prone
+            to mucus-related issues.
+          </li>
+        </ol>
+        adipisicing elit. Veritatis magnam ducimus doloremque ex at distinctio
+        repellendus voluptatum quam delectus et. Amet dolorem debitis sapiente
+        id delectus ea veritatis voluptatem? Dolorem. Lorem ipsum, dolor sit
+        amet consectetur adipisicing elit. Veritatis magnam ducimus doloremque
+        ex at distinctio repellendus voluptatum quam delectus et. Amet dolorem
+        debitis sapiente id delectus ea veritatis voluptatem? Dolorem. Lorem
+        ipsum, dolor sit amet consectetur adipisicing elit. Veritatis magnam
+        ducimus doloremque ex at distinctio repellendus voluptatum quam delectus
+        et. Amet dolorem debitis sapiente id delectus ea veritatis voluptatem?
+        Dolorem. Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+        Veritatis magnam ducimus doloremque ex at distinctio repellendus
+        voluptatum quam delectus et. Amet dolorem debitis sapiente id delectus
+        ea veritatis voluptatem? Dolorem. Lorem ipsum, dolor sit amet
+        consectetur adipisicing elit. Veritatis magnam ducimus doloremque ex at
+        distinctio repellendus voluptatum quam delectus et. Amet dolorem debitis
+        sapiente id delectus ea veritatis voluptatem? Dolorem.
+      </div>
+
+
+
+
+
+      Basic Introduction goes like:
+
+Deeply rooted in Ayurveda, Prakriti is a fundamental idea underlying the specific constitution and precise nature of people. It's far the mixture of bodily, mental, and emotional characteristics that determine someone's make-up. Prakriti, derived from the Sanskrit words 'Pra' for 'primordial' or 'primordial' and 'Kriti' meaning 'advent' or 'nature', refers back to the authentic state on the time of delivery.
+
+In Ayurveda, everybody is believed to have a unique Prakriti, determined via the predominance of three number one energies called doshas: Vata, Pitta, and Kapha. These dosas adjust various physiological and psychological capabilities in the body. Vata consists of the fine of movement, Pitta represents alternate and metabolism, and Kapha represents stability and shape.
+
+Understanding Prakriti is one of the most crucial in Ayurveda because it serves as a compass for private health and wellbeing. By way of information their inner dominant, people could make informed choices approximately eating regimen, life-style, and even the sort of bodily and intellectual activity that satisfactory suits their constitution. For instance, a person with a dominant Vata Prakriti may use the earth, heat food, and rituals to stability the satisfactory of air and cold.
+
+Moreover, Ayurveda is aware of that Prakriti can have an effect on health imbalances and susceptibility to sickness. Via aligning your way of life with Prakriti, you may reduce the danger of imbalance and promote durability.
+
+In fact, Prakriti is a key concept in Ayurveda and presents deep insight into the holistic nature of the character. It invites us to explore the complex interaction of emotions and behaviors, aligning the body, thoughts, and spirit towards balanced well-being and colourful health.
