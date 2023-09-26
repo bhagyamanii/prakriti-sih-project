@@ -79,11 +79,11 @@ export default function Content() {
           <p className="fs-6">
             However, Vata Prakriti individuals can also be prone to imbalances
             such as anxiety, restlessness, and digestive issues when their dosha
-            is aggravated. It's essential for those with a Vata constitution to
+            is aggravated. {`It's`} essential for those with a Vata constitution to
             maintain a balanced lifestyle, including a diet that provides
             nourishment and warmth, as well as routines that promote relaxation
             and stability. Ayurveda recognizes the importance of understanding
-            one's Prakriti as it forms the basis for personalized health
+            {`one's`} Prakriti as it forms the basis for personalized health
             recommendations, helping individuals align their lifestyle and
             habits with their inherent nature to achieve optimal well-being.
           </p>

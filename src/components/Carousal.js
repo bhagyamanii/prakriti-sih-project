@@ -7,8 +7,6 @@ const imgStyle = {
   opacity: "0.4",
 };
 
-function knowMoreClick() {}
-
 export default function Carousal() {
   return (
     <>
@@ -58,9 +56,9 @@ export default function Carousal() {
                 the predominant dosha or doshas in an {"individual's"}{" "}
                 constitution.
               </p>
-              <a href="#" className="btn btn-lg btn-info">
+              <button className="btn btn-lg btn-info">
                 Learn more
-              </a>
+              </button>
             </div>
           </div>
           <div className="carousel-item" data-bs-interval="2000">
@@ -79,9 +77,9 @@ export default function Carousal() {
                 health and well-being based on their unique qualities and
                 interactions.
               </p>
-              <a onClick={knowMoreClick} className="btn btn-lg btn-info">
+              <button className="btn btn-lg btn-info">
                 Learn more
-              </a>
+              </button>
             </div>
           </div>
           <div className="carousel-item">
@@ -101,9 +99,9 @@ export default function Carousal() {
                 characteristics, and imbalances in these doshas are at the core
                 of Ayurvedic diagnosis and treatment.
               </p>
-              <a href="#" className="btn btn-lg btn-info">
+              <button className="btn btn-lg btn-info">
                 Learn more
-              </a>
+              </button>
             </div>
           </div>
         </div>

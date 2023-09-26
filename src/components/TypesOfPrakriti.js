@@ -24,9 +24,9 @@ export default function TypesOfPrakriti() {
               <p className="card-text fs-6">
                 Primarly comprised of air and space but additionally have cold, dry and light components in it
               </p>
-              <a href="#" className="btn btn-primary">
+              <button className="btn btn-primary">
                 Know more
-              </a>
+              </button>
             </div>
           </div>
         </div>
@@ -38,9 +38,9 @@ export default function TypesOfPrakriti() {
               <p className="card-text fs-6">
               Primarly comprised of fire and water but additionally have hot, sharp, oily and intense components in it
               </p>
-              <a href="#" className="btn btn-primary">
+              <button className="btn btn-primary">
                 Know more
-              </a>
+              </button>
             </div>
           </div>
         </div>
@@ -52,9 +52,9 @@ export default function TypesOfPrakriti() {
               <p className="card-text fs-6">
               Primarly comprised of earth and water but additionally have cold, heavy,stable and lubricating components in it
               </p>
-              <a href="#" className="btn btn-primary">
+              <button className="btn btn-primary">
                 Know more
-              </a>
+              </button>
             </div>
           </div>
         </div>
