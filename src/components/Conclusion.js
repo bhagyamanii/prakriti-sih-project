@@ -1,10 +1,7 @@
 import React from "react";
-import IMAGES from "..";
 
 const conclusionContainerStyle = {
-  background: "white",
   borderRadius: "10px",
-  // background: "linear-gradient(to bottom, white, #00b33c)",
   background: "radial-gradient(circle at 10% 30%, white, #00b33c)",
 };
 
@@ -17,7 +14,6 @@ export default function Conclusion() {
     <>
       <div style={conclusionContainerStyle} className="container py-5">
         <div className="p-5 text-center ">
-          <h1 className="text-body-emphasis"></h1>
           <p className="col-lg-8 fs-5 mx-auto fw-normal lead text-start">
             <i className="fw-bold">
               In conclusion, Ayurveda, the ancient system of holistic healing,
